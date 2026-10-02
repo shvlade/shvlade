@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="shvlade — разработка, данные и автоматизация" />
+  <img src="assets/header.svg" width="100%" alt="Владислав — разработка, данные и автоматизация" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="https://github.com/shvlade?tab=repositories">Все репозитории</a>
 </p>
 
-## Привет, я shvlade
+## Привет, я Владислав
 
 Здесь собраны мои веб-приложения, проекты по автоматизации и анализу данных, а также учебная практика. Основной стек в репозиториях — **Python, TypeScript и Java**.
 
